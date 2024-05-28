@@ -1,3 +1,7 @@
 /breast-histopathology-images
 /cancerSeno
 /cancerSeno_bw
+*.zip
+*.ZIP
+*.pickle
+*.PICKLE
